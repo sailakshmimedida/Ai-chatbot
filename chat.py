@@ -7,7 +7,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 import os
 
 # API_KEY = os.getenv("api_key")
-API_KEY ="AIzaSyBXGBGH5NDY8L_jVmq2zb4i8xYEV2qN-48"
+API_KEY ="enter your api key"
 
 template = ChatPromptTemplate(
     messages=[
